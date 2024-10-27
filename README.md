@@ -47,7 +47,7 @@ npm run build
 Nutzung
 Admin-Login: Der Zugriff erfolgt nur mit dem Passwort:
 
-Passwort: PVSHolding2024
+Passwort: PVSHolding2024!
 Nach dem Einloggen können Sie Termine, Abrechnungen und Personal verwalten.
 
 Mitwirken
