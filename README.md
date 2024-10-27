@@ -16,7 +16,8 @@ Dies ist ein Vue.js-Projekt, das zur Verwaltung von Terminen, Abrechnungen und P
 - **Apollo Client**: Für das Management von GraphQL-Daten.
 - **Vite**: Ein Build-Tool, das eine schnellere und effizientere Entwicklungserfahrung bietet.
 
-## Einrichtung und Installation
+Bereitstellung
+Die Anwendung ist live und kann unter folgendem Link aufgerufen werden: pvsholding-client.vercel.app
 
 ### Voraussetzungen
 
