@@ -18,6 +18,7 @@
 - **Apollo Client:** Für das Management von GraphQL-Daten.
 - **Vite:** Ein Build-Tool, das eine schnellere und effizientere Entwicklungserfahrung bietet.
 - **Pinia:** Ein modernes State Management für Vue-Anwendungen.
+- **Cypress:** Ein Tool für End-to-End-Tests, das eine einfache Integration in die Entwicklungsumgebung ermöglicht.
 
 ## Bereitstellung
 Die Anwendung ist live und kann unter folgendem Link aufgerufen werden: 
