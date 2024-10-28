@@ -1,32 +1,26 @@
-# Vue PVS Projekt
+Vue PVS Projekt
+Dies ist ein Vue.js-Projekt, das zur Verwaltung von Terminen, Abrechnungen und Personal für eine Gesundheitsanwendung entwickelt wurde. Die Anwendung verwendet Apollo Client für GraphQL-Abfragen und -Mutationen und ist mit TypeScript für verbesserte Typensicherheit erstellt. Zudem wird Pinia für das State Management eingesetzt.
 
-Dies ist ein Vue.js-Projekt, das zur Verwaltung von Terminen, Abrechnungen und Personal für eine Gesundheitsanwendung entwickelt wurde. Die Anwendung verwendet Apollo Client für GraphQL-Abfragen und -Mutationen und ist mit TypeScript für verbesserte Typensicherheit erstellt.
-
-## Funktionen
-
-- **Terminverwaltung**: Erstellen, Bearbeiten und Stornieren von Terminen.
-- **Abrechnung**: Verwaltung von Abrechnungsinformationen und -status.
-- **Personalverwaltung**: Anzeige und Verwaltung der Verfügbarkeit und Status des Personals.
-- **Modulare Komponenten**: Entwickelt mit Vue Single-File Components für eine einfache Wartbarkeit.
-
-## Verwendete Technologien
-
-- **Vue.js**: Ein fortschrittliches JavaScript-Framework zum Erstellen von Benutzeroberflächen.
-- **TypeScript**: Eine typisierte Obermenge von JavaScript, die in normales JavaScript kompiliert.
-- **Apollo Client**: Für das Management von GraphQL-Daten.
-- **Vite**: Ein Build-Tool, das eine schnellere und effizientere Entwicklungserfahrung bietet.
-
+Funktionen
+Terminverwaltung: Erstellen, Bearbeiten und Stornieren von Terminen.
+Abrechnung: Verwaltung von Abrechnungsinformationen und -status.
+Personalverwaltung: Anzeige und Verwaltung der Verfügbarkeit und des Status des Personals.
+Modulare Komponenten: Entwickelt mit Vue Single-File Components für eine einfache Wartbarkeit.
+Verwendete Technologien
+Vue.js: Ein fortschrittliches JavaScript-Framework zum Erstellen von Benutzeroberflächen.
+TypeScript: Eine typisierte Obermenge von JavaScript, die in normales JavaScript kompiliert.
+Apollo Client: Für das Management von GraphQL-Daten.
+Vite: Ein Build-Tool, das eine schnellere und effizientere Entwicklungserfahrung bietet.
+Pinia: Ein modernes State Management für Vue-Anwendungen.
 Bereitstellung
 Die Anwendung ist live und kann unter folgendem Link aufgerufen werden: pvsholding-client.vercel.app
 
-### Voraussetzungen
-
-- Node.js (Version 14 oder höher)
-- npm oder yarn
-
-### Repository klonen
-
-```bash
+Voraussetzungen
+Node.js (Version 14 oder höher)
+npm oder yarn
+Repository klonen
+bash
+Copy code
 git clone https://github.com/ahmedaminebouchmal/pvsholding-client.git
 cd pvsholding-client
 Abhängigkeiten installieren
@@ -55,7 +49,7 @@ Mitwirken
 Wenn Sie zu diesem Projekt beitragen möchten, forken Sie das Repository und senden Sie eine Pull-Anfrage.
 
 Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die LICENSE Datei für Details.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die LICENSE-Datei für Details.
 
 Autor
 Name: Ahmed Amine Bouchmal
