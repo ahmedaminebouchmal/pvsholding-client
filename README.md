@@ -71,12 +71,4 @@ Name: Ahmed Amine Bouchmal
 E-Mail: bouchmalaabesp@gmail.com
 
 
-### Key Updates:
-- **Address Added**: Your address is now included in the "Autor" section for better visibility.
-- **Clear Presentation**: The formatting remains consistent for readability and professionalism.
-
-### Note:
-As mentioned earlier, if you're using platforms like GitHub, the `<style>` section may not be rendered as expected, so you can choose to remove it if necessary. Adjust any personal information as needed to ensure it’s accurate and complete.
-
-Feel free to customize it further based on your preferences!
 
